@@ -196,6 +196,13 @@
     display: flex;
     flex-direction: column;
 }
+.main_div img{
+    display: flex;
+    margin-left: 1440px;
+    margin-top: -265px;
+    position: relative;
+    z-index: 2;
+}
 .rectangle{
     width: 670px;
     height: 600px;
@@ -209,7 +216,7 @@
     font-style: normal;
     font-weight: 800;
     line-height: 130%; /* 45.5px */
-    margin-top: 134px;
+    margin-top: 197px;
     margin-left: 94px;
     position: relative;
     z-index: 10;
@@ -222,6 +229,7 @@
     font-weight: 400;
     line-height: 180%; /* 32.4px */
     margin-left: 94px;
+    margin-top: 10px;
 }
 .rect{
     width: 111px;
@@ -232,4 +240,140 @@
     left: 60px;
     top: 160px;
     z-index: 3;
+}
+h1{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.main_container1{
+    width: 1523px;
+    height: 700px;
+    margin-left: 190px;
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.main_container1 div{
+    width: 350px;
+    height: 180px;
+    border-radius: 50px 4px;
+    background: #F4F9FB;
+}
+.main_container1 div p{
+    color: #363636;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 27px */
+    margin-left: 52px;
+    margin-top: 37px;
+}
+.main_container1 div .program1{
+    color: #0072C5;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 135%; /* 20.25px */
+}
+.main_container2{
+    width: 1523px;
+    height: 700px;
+    margin-left: 190px;
+    margin-top: -470px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.main_container2 div p{
+    color: #363636;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 27px */
+    margin-left: 52px;
+    margin-top: 37px;
+}
+.main_container2 div{
+    width: 350px;
+    height: 180px;
+    border-radius: 50px 4px;
+    background: #F4F9FB;
+}
+.main_container2 div .program1{
+    color: #0072C5;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 135%; /* 20.25px */
+}
+.main_container3{
+    width: 1523px;
+    height: 700px;
+    margin-left: 190px;
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: -470px;
+}
+.main_container3 div{
+    width: 350px;
+    height: 180px;
+    border-radius: 50px 4px;
+    background: #F4F9FB;
+}
+.main_container3 div p{
+    color: #363636;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 27px */
+    margin-left: 52px;
+    margin-top: 37px;
+}
+.main_container3 div .program1{
+    color: #0072C5;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 135%; /* 20.25px */
+}
+.main_container3 div .program2{
+    color: #0072C5;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 135%; /* 20.25px */
+    margin-top: -7px;
+}
+.h1{
+    margin-top: -400px;
+    display: flex;
+    justify-content: center;
+}
+.h3{
+    color: #363636;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%; /* 41.6px */
+}
+.bb1{
+    color: #D7EBFA;
+    font-family: Mazzard;
+    font-size: 260px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 135%; /* 351px */
 }
