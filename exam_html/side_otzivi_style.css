@@ -1,10 +1,9 @@
 .main_header{
     background-color: white;
     background-color: whitesmoke;
-    margin-left: -10px;
-    margin-top: -10px;
+    margin: auto;
     width: 1900px;
-    height: 150px;
+
 }
 .main_logo{
     width: 240px;
@@ -125,7 +124,7 @@ a:hover{
     height: 82px;
     background: #0A45BB;
     display: flex;
-    margin-top: -25px;
+    margin: auto;
 }
 .obuch{
     width: 308px;
@@ -188,6 +187,9 @@ a:hover{
     border: none;
     padding-left: 20px;
 }
+.main_main_p{
+    margin: auto;
+}
 .ppp1{
     color: #363636;
     font-family: Manrope;
@@ -213,6 +215,7 @@ h1{
     display: flex;
     justify-content: center;
 }
+
 p{
     color: #363636;
     font-family: Manrope;
@@ -220,6 +223,11 @@ p{
     font-style: normal;
     font-weight: 600;
     line-height: 150%; /* 24px */
+}
+.main_main_div{
+    width: 1900px;
+    background-color: red;
+    margin: auto;
 }
 .container{
     margin-top: 45px;
@@ -256,15 +264,13 @@ p{
     height: 187px;
     background: #0A45BB;
     display: flex;
-    margin-top: 140px;
-    margin-left: -10px;
+    margin: auto;
 }
 .lower_div1{
     width: 1900px;
     height: 76px;
     background: #093CA4;
-    margin-left: -10px;
-    margin-top: 10px;
+    margin: auto;
 }
 .main_logo2{
     width: 230px;
