@@ -1,9 +1,9 @@
 .main_header{
     background-color: white;
     background-color: whitesmoke;
-    margin-left: -10px;
+    margin-left: -12px;
     margin-top: -10px;
-    width: 1860px;
+    width: 1900px;
     height: 150px;
 }
 .main_logo{
@@ -121,11 +121,12 @@ a:hover{
     border: none;
 }
 .second_header{
-    width: 1860px;
+    width: 1900px;
     height: 82px;
     background: #0A45BB;
     display: flex;
     margin-top: -25px;
+    margin-left: 0px;
 }
 .obuch{
     width: 308px;
@@ -196,9 +197,9 @@ a:hover{
 .main_div{
     width: 1523px;
     height: 600px;
-    background-image: url('/exam_html/img/ULZ_2369.png');
-    margin-top: 100px;
-    margin-left: 190px;
+    background-image: url('./img/ULZ_2369.png');
+    margin-top: 120px;
+    margin-left: 188px;
     background-position: right top;
     display: flex;
     flex-direction: column;
@@ -543,7 +544,7 @@ h1{
     margin-top: 20px;
 }
 .lower_div{
-    width: 1860px;
+    width: 1900px;
     height: 187px;
     background: #0A45BB;
     display: flex;
@@ -551,7 +552,7 @@ h1{
     margin-left: -10px;
 }
 .lower_div1{
-    width: 1860px;
+    width: 1900px;
     height: 76px;
     background: #093CA4;
     margin-left: -10px;
